@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3095613512",
+    "project_id": "apprecycler-5f8e4",
+    "storage_bucket": "apprecycler-5f8e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3095613512:android:d1e88afbcc2d61c53bc87d",
+        "android_client_info": {
+          "package_name": "com.example.apprecycler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawHp_-0Tit6tH_cajin6qxoUgf2HvANs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
